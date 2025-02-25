@@ -45,7 +45,7 @@ const damien = {
         <br>
         <br>
         <p>
-          <a href="https://github.com/damiensabau/cfm-project" target="_blank">
+          <a href="https://github.com/Particule-ctrl/SAE-501" target="_blank">
             <img src="https://img.shields.io/badge/Code-9E6240?style=for-the-badge&logo=github"/>
           </a>  
         </p>
@@ -59,7 +59,7 @@ const damien = {
         <br>
         <br>
         <p>
-          <a href="https://github.com/damiensabau/pollution-dashboard" target="_blank">
+          <a href="https://github.com/Leele09/dashboard" target="_blank">
             <img src="https://img.shields.io/badge/Code-9E6240?style=for-the-badge&logo=github"/>
           </a>
         </p>
