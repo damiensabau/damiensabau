@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-damien.sabau@etu.u--pec.fr-1A6BE5?style=for-the-badge&logo=gmail)](mailto:damien.sabau@etu.u-pec.fr)
+[![Email](https://img.shields.io/badge/Email-damiensabau77290@gmail.com-1A6BE5?style=for-the-badge&logo=gmail)](mailto:damiensabau77290@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damien_Sabau-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/damien-sabau)
 [![Phone](https://img.shields.io/badge/Téléphone-06_11_57_68_75-1A6BE5?style=for-the-badge&logo=whatsapp)](tel:+33611576875)
 
